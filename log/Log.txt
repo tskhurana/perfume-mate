@@ -1,0 +1,130 @@
+2019-01-16 16:46:10.166420 
+Exception Type : requests.exceptions.MissingSchema 
+File Name : scrape.py 
+Line Number : 58
+
+2019-01-16 16:46:10.311000 
+Exception Type : requests.exceptions.MissingSchema 
+File Name : scrape.py 
+Line Number : 58
+
+2019-01-16 16:46:10.931339 
+Exception Type : requests.exceptions.MissingSchema 
+File Name : scrape.py 
+Line Number : 58
+
+2019-01-16 16:46:11.170705 
+Exception Type : requests.exceptions.MissingSchema 
+File Name : scrape.py 
+Line Number : 58
+
+2019-01-16 16:46:11.605537 
+Exception Type : requests.exceptions.MissingSchema 
+File Name : scrape.py 
+Line Number : 58
+
+2019-01-16 16:46:11.835922 
+Exception Type : requests.exceptions.MissingSchema 
+File Name : scrape.py 
+Line Number : 58
+
+2019-01-16 16:46:12.276747 
+Exception Type : requests.exceptions.MissingSchema 
+File Name : scrape.py 
+Line Number : 58
+
+2019-01-16 16:46:12.487179 
+Exception Type : requests.exceptions.MissingSchema 
+File Name : scrape.py 
+Line Number : 58
+
+2019-01-16 16:46:12.889107 
+Exception Type : requests.exceptions.MissingSchema 
+File Name : scrape.py 
+Line Number : 58
+
+2019-01-16 16:46:13.136451 
+Exception Type : requests.exceptions.MissingSchema 
+File Name : scrape.py 
+Line Number : 58
+
+2019-01-16 16:46:13.540368 
+Exception Type : requests.exceptions.MissingSchema 
+File Name : scrape.py 
+Line Number : 58
+
+2019-01-16 16:46:13.745815 
+Exception Type : requests.exceptions.MissingSchema 
+File Name : scrape.py 
+Line Number : 58
+
+2019-01-16 16:46:14.145751 
+Exception Type : requests.exceptions.MissingSchema 
+File Name : scrape.py 
+Line Number : 58
+
+2019-01-16 16:46:14.360175 
+Exception Type : requests.exceptions.MissingSchema 
+File Name : scrape.py 
+Line Number : 58
+
+2019-01-16 16:46:10.739852 
+Exception Type : requests.exceptions.MissingSchema 
+File Name : scrape.py 
+Line Number : 58
+
+2019-01-16 16:46:11.404075 
+Exception Type : requests.exceptions.MissingSchema 
+File Name : scrape.py 
+Line Number : 58
+
+2019-01-16 16:46:12.047355 
+Exception Type : requests.exceptions.MissingSchema 
+File Name : scrape.py 
+Line Number : 58
+
+2019-01-16 16:46:12.685649 
+Exception Type : requests.exceptions.MissingSchema 
+File Name : scrape.py 
+Line Number : 58
+
+2019-01-16 16:46:13.347876 
+Exception Type : requests.exceptions.MissingSchema 
+File Name : scrape.py 
+Line Number : 58
+
+2019-01-16 16:46:13.953258 
+Exception Type : requests.exceptions.MissingSchema 
+File Name : scrape.py 
+Line Number : 58
+
+2019-01-16 16:46:14.570607 
+Exception Type : requests.exceptions.MissingSchema 
+File Name : scrape.py 
+Line Number : 58
+
+2019-01-16 16:46:14.769084 
+Exception Type : requests.exceptions.MissingSchema 
+File Name : scrape.py 
+Line Number : 58
+
+2019-02-20 14:58:48.441324 
+Exception Type : UnboundLocalError 
+File Name : scrape.py 
+Line Number : 96
+
+2019-02-20 14:58:46.800360 
+Exception Type : UnboundLocalError 
+File Name : scrape.py 
+Line Number : 96
+
+2019-02-20 14:58:52.465935 
+Exception Type : UnboundLocalError 
+File Name : scrape.py 
+Line Number : 96
+
+2019-02-20 14:59:23.295999 
+Exception Type : requests.exceptions.SSLError 
+File Name : scrape.py 
+Line Number : 72
+
